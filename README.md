@@ -1,2 +1,3 @@
 # 2022-USTC-Introduction-to-Machine-Learning
  
+- 2022秋季学期中科大机器学习概论课程
