@@ -1,4 +1,4 @@
-# ![Machine Learning Lab2 - SVM](https://gitee.com/Sqrti/ml_2022_f/tree/master/lab/lab2)
+# [Machine Learning Lab2 - SVM](https://gitee.com/Sqrti/ml_2022_f/tree/master/lab/lab2)
 
 ## 实验环境
 
