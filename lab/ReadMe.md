@@ -2,7 +2,7 @@
 ## lab2 实现两种解决二次规划问题的SVM算法
 ## lab3 实现简单的XGBoost-DecisionTree算法
 ## lab4 实现简单的[DPC](https://sites.psu.edu/mcnl/files/2017/03/9-2dhti48.pdf)算法
-## lab5
+## lab5 对数据进行预处理（工作量99%），训练并比较多个模型的性能
 
 
 ### ***其中lab1与lab2完成的相对较烂***
